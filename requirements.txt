@@ -1,0 +1,7 @@
+numpy==1.19.3
+opencv-python
+pytesseract
+pillow
+pywin32
+pyautogui
+mtranslate
