@@ -1,5 +1,5 @@
 # What is realTimeTranslate?
-It is a simple real-time translation application that transforms the picture taken from the screenshot into text with **tesseract**, then translates it to the language you want and displays it on the screen.
+It is a simple real-time translation application that transforms the picture taken from the screenshot into text with **tesseract**, then translates it to the language you want and displays it on the screen. Frankly, I wrote this program so as not to constantly go to translation while reading a pdf file.
 
 ### How to Install?
 
