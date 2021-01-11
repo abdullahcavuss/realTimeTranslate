@@ -15,7 +15,7 @@ You can install the necessary modules by typing the following code in the folder
 
 ### How to Use?
 ##### Start Program
-You can start the program by typing the code below in the terminal.
+You can start the program by typing the code below in the terminal. After that, just take the mouse wherever you want to translate.
 
     python python realTimeTranslate.py
     
